@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=false" alt="header"/>
 
 <p align="center">
-  <img src="./assets/cyber.png" />
+  <img src="./assets/cyber.svg" />
 </p>
 
 ### Publications
