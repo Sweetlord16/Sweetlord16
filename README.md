@@ -1,9 +1,14 @@
-- 👋 Hi, I’m Eric Cabrera
-<!--- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me darklorderic16@gmail.com
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=false" alt="header"/>
 
-Sweetlord16/Sweetlord16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="./assets/cyber.png" />
+</p>
+
+### Publications
+<div> 
+  <a href="https://medium.com/@ericccruz16">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" alt="Medium">
+  </a>
+</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=false&section=footer" alt="footer"/>
+
